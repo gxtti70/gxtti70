@@ -17,6 +17,6 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/4RbCdwPPk5XUpTrxAvntGM)
+[![Spotify](https://spotify-now-playing-omega-ashy.vercel.app/api/spotify)](https://open.spotify.com/track/4RbCdwPPk5XUpTrxAvntGM)
 
 
