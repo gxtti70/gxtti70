@@ -17,7 +17,6 @@ I am a **Junior Full Stack Developer** with experience in developing and maintai
 
 - 🌱 **Currently learning...**
   - Strengthening my skills in **Cloud Architectures** and **Microservicios**.
-  - Perfecting my **English** (Target: C1).
   - Implementing **RAG (Retrieval-Augmented Generation)** and LLMs in personal projects.
 - 🚀 **Featured Projects:**
   - **LexiQ**: A web platform with RAG architecture to interact with documents.
