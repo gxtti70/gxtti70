@@ -3,7 +3,7 @@
     <div align=right>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
-   ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Y1bHVudmNuODUzNmlkM2hnb2dzNnFkZm03M3pzeTNuN25hYTN4diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/M6mU9OQf5yVby/giphy.gif" width="30px">&nbsp;***About me***
+ ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 I am a **Junior Full Stack Developer** with experience in developing and maintaining comprehensive web applications, covering frontend, backend, and cloud deployment. I excel at taking full technical responsibility: from receiving and integrating changes to documentation and coordinating with QA to ensure product quality.
 
