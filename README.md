@@ -17,5 +17,5 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-now-playing-omega-ashy.vercel.app/api/now-playing?V=1)](https://open.spotify.com/track/4RbCdwPPk5XUpTrxAvntGM)
+[![Spotify](https://spotify-now-playing-omega-ashy.vercel.app/api/now-playing)](https://open.spotify.com/track/4RbCdwPPk5XUpTrxAvntGM)
 
