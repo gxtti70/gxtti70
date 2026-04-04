@@ -1,12 +1,18 @@
-<h1 align="center">Hi , I'm Santiago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<div>
-    <div align=right>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
-    
- ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGlwdno4ZTEyc2VwZHBmenQxbGpqN3EwZTdkYnc5bHcxODI1cXRjdyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/dam75HU5vwsdRhBBLv/giphy.gif" width="90px">&nbsp;***About me***
+<h1 align="left">Hi , I'm Santiago <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-I am a **Junior Full Stack Developer** with experience in developing and maintaining comprehensive web applications, covering frontend, backend, and cloud deployment. I excel at taking full technical responsibility: from receiving and integrating changes to documentation and coordinating with QA to ensure product quality.
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGlwdno4ZTEyc2VwZHBmenQxbGpqN3EwZTdkYnc5bHcxODI1cXRjdyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/dam75HU5vwsdRhBBLv/giphy.gif" width="85" align="center">&nbsp;<i>About me</i></h2>
+      <p>
+        I am a <b>Junior Full Stack Developer</b> with experience in developing and maintaining comprehensive web applications, covering frontend, backend, and cloud deployment. I excel at taking full technical responsibility: from receiving and integrating changes to documentation and coordinating with QA to ensure product quality.
+      </p>
+    </td>
+    <td valign="top" width="30%" align="right">
+      <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat" width="220">
+    </td>
+  </tr>
+</table>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -26,13 +32,14 @@ I am a **Junior Full Stack Developer** with experience in developing and maintai
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%2387A91B.svg?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
+---
 
 - 🌱 **Currently learning...**
-  - Strengthening my skills in **Cloud Architectures** and **Microservicios**.
-  - Implementing **RAG (Retrieval-Augmented Generation)** and LLMs in personal projects.
+  - Strengthening my skills in **Cloud Architectures** and **Microservices**.
+  - Implementing **RAG (Retrieval-Augmented Generation)** and LLMs in personal projects.
 - 🚀 **Featured Projects:**
-  - **LexiQ**: A web platform with RAG architecture to interact with documents.
-  - **FinQ**: Financial management application with Spring Boot and Angular.
+  - **LexiQ**: A web platform with RAG architecture to interact with documents.
+  - **FinQ**: Financial management application with Spring Boot and Angular.
 - 👯 **Looking forward to collaborate** on open source projects and innovative full-stack developments.
 - ✔ **Ask me about:** Full-stack web development, AWS services, or design patterns.
 
@@ -46,14 +53,13 @@ I am a **Junior Full Stack Developer** with experience in developing and maintai
 * 🎧 **With music:** Always playing.
 * 🌴 **Exploring:** I love traveling to new places.
 
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/gxtti70">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gxtti70&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
-  <a href="gxtti70">
+  <a href="https://github.com/gxtti70">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gxtti70&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
@@ -61,4 +67,3 @@ I am a **Junior Full Stack Developer** with experience in developing and maintai
 <p align="center">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gxtti70&theme=dark&hide_border=true"/>
 </p>
-
