@@ -4,7 +4,7 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
     
- ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+ ## <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGlwdno4ZTEyc2VwZHBmenQxbGpqN3EwZTdkYnc5bHcxODI1cXRjdyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/dam75HU5vwsdRhBBLv/giphy.gif" width="90px">&nbsp;***About me***
 
 I am a **Junior Full Stack Developer** with experience in developing and maintaining comprehensive web applications, covering frontend, backend, and cloud deployment. I excel at taking full technical responsibility: from receiving and integrating changes to documentation and coordinating with QA to ensure product quality.
 
@@ -26,6 +26,7 @@ I am a **Junior Full Stack Developer** with experience in developing and maintai
 - ✔ **Ask me about:** Full-stack web development, AWS services, or design patterns.
 
 <br>
+
 **Outside of tech, you'll find me:**
 
 * ⚽ **On the pitch:** Playing football (soccer).
