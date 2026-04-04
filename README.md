@@ -27,7 +27,6 @@ I am a **Junior Full Stack Developer** with experience in developing and maintai
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-%2387A91B.svg?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
 
-
 - 🌱 **Currently learning...**
   - Strengthening my skills in **Cloud Architectures** and **Microservicios**.
   - Implementing **RAG (Retrieval-Augmented Generation)** and LLMs in personal projects.
@@ -46,3 +45,20 @@ I am a **Junior Full Stack Developer** with experience in developing and maintai
 * 📖 **With a good book:** I really enjoy reading.
 * 🎧 **With music:** Always playing.
 * 🌴 **Exploring:** I love traveling to new places.
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <a href="https://github.com/gxtti70">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gxtti70&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="gxtti70">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gxtti70&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gxtti70&theme=dark&hide_border=true"/>
+</p>
+
