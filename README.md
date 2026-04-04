@@ -8,12 +8,25 @@
 
 I am a **Junior Full Stack Developer** with experience in developing and maintaining comprehensive web applications, covering frontend, backend, and cloud deployment. I excel at taking full technical responsibility: from receiving and integrating changes to documentation and coordinating with QA to ensure product quality.
 
-* **Core Skills & Tools:**
-    * **Frontend:** Angular, TypeScript, HTML, CSS, JavaScript.
-    * **Backend:** Java (Spring Boot, Spring Cloud Function).
-    * **Cloud & DevOps:** AWS (Lambda, S3, Cognito, RDS), Docker.
-    * **Database:** SQL (PostgreSQL).
-    * **My Approach:** Creating stable, well-structured products ready for growth, applying development best practices, technical documentation, and version control.
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![Node.JS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Gemini](https://img.shields.io/badge/gemini-%23078EFA.svg?style=for-the-badge&logo=gemini&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Ubuntu](https://img.shields.io/badge/Ubuntu-%2387A91B.svg?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+
+
 
 - 🌱 **Currently learning...**
   - Strengthening my skills in **Cloud Architectures** and **Microservicios**.
