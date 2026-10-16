@@ -5,7 +5,7 @@
     <td valign="top" width="70%">
       <h2><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cGlwdno4ZTEyc2VwZHBmenQxbGpqN3EwZTdkYnc5bHcxODI1cXRjdyZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/dam75HU5vwsdRhBBLv/giphy.gif" width="85" align="center">&nbsp;<i>About me</i></h2>
       <p>
-        I am a <b>Junior Full Stack Developer</b> with experience in developing and maintaining comprehensive web applications, covering frontend, backend, and cloud deployment. I excel at taking full technical responsibility: from receiving and integrating changes to documentation and coordinating with QA to ensure product quality.
+        I am a <b>Full Stack Developer</b> with experience in developing and maintaining comprehensive web applications, covering frontend, backend, and cloud deployment. I excel at taking full technical responsibility: from receiving and integrating changes to documentation and coordinating with QA to ensure product quality.
       </p>
     </td>
     <td valign="top" width="30%" align="right">
